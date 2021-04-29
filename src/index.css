@@ -7,6 +7,10 @@ body {
   background: linear-gradient(-135deg, #fc466b 0%, #3f5efb 100%);
 }
 
+.App {
+  overflow: hidden;
+}
+
 h1 {
   text-align: center;
 }
